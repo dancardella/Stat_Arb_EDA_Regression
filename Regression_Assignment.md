@@ -51,10 +51,7 @@ further differentiating performing pairs from the balance of the dataset through
 2. **Data Science Specific** - Proceed with data analytics, machine learning and regression techniques to build analysis
 
 
-PART2: Linear Regression
-Used linear regression to look at an interesting question related to statistical arbitrage.
-
-## Initial Data Cleaning Approach and Exploratory Findings
+## PART2: LINEEAR REGRESSION- Initial Data Cleaning Approach and Exploratory Findings
 
 I downloaded selected stock prices from Yahoo Finance website using an R script. I then used Python to compile the following features: 'market_cap', 'editda','day_prior_dr','comp_cor' and 'normalized stock volume'.
 
