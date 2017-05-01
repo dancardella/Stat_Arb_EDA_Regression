@@ -1,7 +1,7 @@
-# Regression Project MVP
+# Regression Project MVP -Dan Cardella
 
-PART1: EDA
-## Goals
+
+## PART1: EDA - Goals
 
 To explore particular event-driven investment opportunities within the capital markets with the purposes of determing if any
 evident patterns of potential alpha-generating trends exist.
